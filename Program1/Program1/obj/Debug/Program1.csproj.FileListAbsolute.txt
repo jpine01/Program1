@@ -1,0 +1,7 @@
+C:\Users\Julio\Desktop\CIS 199\Programs\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Desktop\CIS 199\Programs\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\CIS 199\Programs\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\Julio\Desktop\CIS 199\Programs\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\Julio\Desktop\CIS 199\Programs\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\Julio\Desktop\CIS 199\Programs\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\Julio\Desktop\CIS 199\Programs\Program1\Program1\obj\Debug\Program1.pdb
